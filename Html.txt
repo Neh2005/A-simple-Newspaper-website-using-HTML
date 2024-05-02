@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Deccan chronicle</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" >
+</head>
+<body>
+	 <p align="right">WebStories| E-paper| Corporate insolvency resolution process</p>
+     <h1 align="center">Deccan Chronicle</h1>
+     <a href="About us.html"> About us</a>  &nbsp &nbsp
+     <a href="Contact us.html"> Contact us</a> &nbsp &nbsp
+     <a href="News headlines.html">News headlines</a><br><br>
+     <img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/201207/deccan-chronicle-paper_505_073012062912.jpg?size=948:533"
+	width="1400px" height="400px"><br>
+     <p align="justify">News is information about current events. This may be provided through many different media: word of mouth, printing, postal systems, broadcasting, electronic communication, or through the testimony of observers and witnesses to events. News is sometimes called "hard news" to differentiate it from soft media.</p>
+    <p align="justify">Common topics for news reports include war, government, politics, education, health, the environment, economy, business, fashion, entertainment, and sport, as well as quirky or unusual events. Government proclamations, concerning royal ceremonies, laws, taxes, public health, and criminals, have been dubbed news since ancient times. Technological and social developments, often driven by government communication and espionage networks, have increased the speed with which news can spread, as well as influenced its content.</p>
+    <h3>Advantages of Newspaper</h3>
+    <ol>
+	<li><b>All the Information under One Roof:</b> &nbsp Newspapers give all the data under one rooftop. Individuals don’t need to go searching for the most recent news somewhere else on the off chance that they have bought into a general-interest paper. These papers are decisively isolated into different areas like current undertakings, global news, business, sports, wellbeing, amusement, and so forth Each segment covers news relating to its field. In this way, every significant happening in any field in any region of the planet is accessible here.</li>
+	<li><b>Wellspring of Entertainment:</b> &nbsp Newspapers don’t simply hold back genuine news they can even be a wellspring of amusement. They contain news from media outlets. They likewise have a part that incorporates riddles, Sudoku, and other such games to engage us.</li>
+	<li><b>Accessible in Various Languages:</b> &nbsp Newspapers are accessible in different dialects with those in Hindi and English language being all the more promptly accessible in our country. Thus, we individuals pick a paper in the language they are knowledgeable with to acquire information about the most recent happenings.</li>
+	<li><b>Simple to Access and Read:</b> &nbsp Newspapers are financially savvy and effectively accessible on the lookout. Individuals can peruse these anyplace and whenever without stressing your eyes.</li>
+	<li><b>Upgrades Vocabulary and Grammar:</b> &nbsp Reading papers consistently can assist with improving jargon over the long haul. It is additionally a decent method for working on syntactic abilities.</li>
+	</body>
+</html>
