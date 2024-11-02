@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contact us</title>
+</head>
+<body>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaHCMfLooi-IynecplrVBiqo1UC29773uWdg&usqp=CAU"width="1400px"height="400px"></a>
+      <form method="POST">
+ 	<fieldset>
+ 	  <label for="fname">First name:</label><br>
+ 	  <input type="text" id="fname" name="fname" value=""><br>
+ 	  <label for="lname">Last name:</label><br>
+ 	  <input type="text" id="lname" name="lname" value=""><br>
+ 	  <label for="phone number"> Phone number:</label><br>
+ 	  <input type="tel" id="phone number" autofocus="autofocus" name="phone number" maxlength="10"><br><br>
+ 	  <label for="Communication"> Choose the type of communication</label><br>
+ 	  <select id="Communication" name="Communication">
+ 		<option value="Sales"> Sales</option>
+ 		<option value="Service">Service</option>
+ 		<option value="Enquiry">Enquiry</option>
+ 		<option value="Advertisements" selected>Advertisement</option>
+ 		<option value="Complaint">Complaint</option>
+ 	  </select><br><br>
+ 	  <form action="" method="GET">
+ 	 	<h4>Description:</h4><br>
+ 	 	<textarea rows="5" cols="50" name="Description"></textarea>
+ 	  </form><br><br>
+      <button type="submit">Submit</button>
+    </fieldset>
+    <a href="Newsheadlines.html">Click here to go back</a>
+</body>
+</html>
